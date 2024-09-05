@@ -287,7 +287,7 @@ let dt = moment(Date.now()).tz('Asia/Jakarta').locale('id').format('a')
 var fildt = dt == 'pagi' ? dt + '🌝' : dt == 'siang' ? dt + '🌞' : dt == 'sore' ? dt + '🌝' : dt + '🌚'
 const ucapanWaktu = fildt.charAt(0).toUpperCase() + fildt.slice(1)
 
-		if (isEval && senderNumber == "+6285813708397") {
+		if (isEval && senderNumber == "+6281229282984") {
 			let evaled,
 				text = q,
 				{ inspect } = require('util')
@@ -2849,7 +2849,7 @@ await Fiony.relayMessage(msg.key.remoteJid, msg.message, {
 break
 
 case 'domainmenu': {
-const owned = `6285813708397@s.whatsapp.net`
+const owned = `6281229282984@s.whatsapp.net`
 const text12 = `*Hi @${sender.split("@")[0]} 👋*
 
 ▭▬▭( *DOMAIN MENU* )▭▬▭
@@ -2859,8 +2859,8 @@ const text12 = `*Hi @${sender.split("@")[0]} 👋*
 ⭔ ${prefix}delgc
 
 
-*SUNTIK FOLLOWERS HANYA DI*
-*https://lapakmedsos.com*
+*-*
+*-*
 
  Powered By *@${owned.split("@")[0]}*
 ▬▭▬▭▬▭▬▭▬▭▬▭▬`
@@ -17228,7 +17228,7 @@ case 'listsrv': {
 break;
 
 case 'tutorial': {
-const owned = `6285813708397@s.whatsapp.net`
+const owned = `6281229282984@s.whatsapp.net`
 const version = require("baileys/package.json").version
 const text12 = xeonytimewisher + ` *@${sender.split("@")[0]}*
 
@@ -17244,7 +17244,7 @@ Fiony.sendMessage(from, { text: text12, contextInfo: { mentionedJid: [sender, ow
 break
 
 case 'ramlist': { 
-const owned = `6285813708397@s.whatsapp.net`
+const owned = `6281229282984@s.whatsapp.net`
 const version = require("baileys/package.json").version
 const text12 = xeonytimewisher + ` *@${sender.split("@")[0]}*
 
