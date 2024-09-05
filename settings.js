@@ -27,29 +27,29 @@ global.kiiapi = 'KC-rc8OqPJSisIr'
 
 //===============SETTING MENU==================\\
 global.thumbnail = 'https://telegra.ph/file/21006861ea49deb6977c6.png'
-global.ig = 'fallxd_781'
-global.fb = 'lapakmedsos.com'
-global.ownername = '𝑭𝒊𝒐𝒏𝒚 𝑴𝒅🍃'
-global.owner = ['6285813708397'] // SETTING JUGA DI FOLDER DATABASE 
-global.ownernomer = '6285813708397'
-global.ytname = '𝑭𝒊𝒐𝒏𝒚 𝑴𝒅' 
-global.socialm = 'GitHub: FallEzz'
+global.ig = '-'
+global.fb = '-'
+global.ownername = 'Muzakie🍃'
+global.owner = ['6281229282984'] // SETTING JUGA DI FOLDER DATABASE 
+global.ownernomer = '6281229282984'
+global.ytname = '-' 
+global.socialm = 'GitHub: -'
 global.location = 'Markas Ultramen' 
 //=============================================\\
-global.botname = "𝑭𝒊𝒐𝒏𝒚 𝑴𝒅⚡"
-global.ownernumber = '6285813708397'
-global.botnumber = '6281572768243'
-global.ownername = '𝑭𝒊𝒐𝒏𝒚 𝑴𝒅 𝑶𝒘𝒏𝒆𝒓'
-global.ownerNumber = ["6285813708397@s.whatsapp.net"]
-global.ownerweb = "https://lapakmedsos.com"
+global.botname = "Muzakie 𝑴𝒅⚡"
+global.ownernumber = '6281229282984'
+global.botnumber = '6285942086180'
+global.ownername = 'Muzakie 𝑴𝒅 𝑶𝒘𝒏𝒆𝒓'
+global.ownerNumber = ["6281229282984@s.whatsapp.net"]
+global.ownerweb = "-"
 global.websitex = ""
-global.wagc = "https://chat.whatsapp.com/LTS6qP1CGi2FlCQWnk2vwh"
+global.wagc = "-"
 global.themeemoji = '👾'
-global.wm = "𝑭𝒊𝒐𝒏𝒚 𝑴𝒅| 𝟏𝟖 𝑱𝒖𝒏𝒊 ©𝟐𝟎𝟐𝟒"
-global.botscript = 'SCRIPT ADA DISINI YA KAK\n Link : https://lapakmedsos.com' //script link
+global.wm = "Muzakie 𝑴𝒅| 𝟏𝟖 𝑱𝒖𝒏𝒊 ©𝟐𝟎𝟐𝟒"
+global.botscript = '-' //script link
 global.packname = "Sticker By"
-global.author = "\n\n\n\n\n𝑪𝒓𝒆𝒂𝒕𝒆𝒅 𝑩𝒀 𝑭𝒂𝒍𝒍𝒁𝒙\n 𝑵𝒐 𝑾𝒂  : 6285813708397"
-global.creator = "6285813708397@s.whatsapp.net"
+global.author = "\n\n\n\n\n𝑪𝒓𝒆𝒂𝒕𝒆𝒅 𝑩𝒀 M\n 𝑵𝒐 𝑾𝒂  : 6281229282984"
+global.creator = "6281229282984@s.whatsapp.net"
  
 //if api key expire, u can generate one from here: https://beta.openai.com/account/api-keys
 global.keyopenai = "pk-pIWAlRroXTOAigkWdHcYvmlmgzEQXuoMWbVAaLAVZswSRbEB"
